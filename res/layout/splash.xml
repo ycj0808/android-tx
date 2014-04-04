@@ -80,7 +80,6 @@
                 android:text="@string/setting_about_description"
                 android:textColor="@color/white"
                 android:textSize="13sp" />
-                android:textColor="#3399ff"
 
             <ProgressBar
                 android:id="@+id/refresh_list_footer_progressbar"

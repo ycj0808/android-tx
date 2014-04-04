@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <style name="Chat" />
+     <style name="Chat.NavBar"/>
+     <!-- 自定义样式 -->
+    <style name="Chat.NavBar.Title">
+        <item name="android:textSize">@dimen/navbar_title_size</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

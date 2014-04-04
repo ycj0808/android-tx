@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   
+     <style name="ChatBase" parent="@android:style/Theme.Light" />
+     <style name="CasTheme.Sherlock.ActionBar" parent="Theme.Sherlock.Light.DarkActionBar"></style>
+</resources>

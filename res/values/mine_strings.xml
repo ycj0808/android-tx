@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- splash -->
+    <string name="splash_logo_str">logo</string>
+    <string name="splash_desc_str">沟通零距零,无限畅聊吧</string>
+    
+    <!-- login -->
+    <string name="login_hint_account">请输入您的手机号</string>
+    <string name="login_hint_password">密码</string>
+    <string name="login_head_logo_desc">头像</string>
+</resources>

@@ -18,8 +18,7 @@ public class SplashActivity extends FragmentActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.splash);
 		mHandler = new Handler();
-		String password = PreferenceUtils.getPrefString(this,
-				PreferenceConstants.PASSWORD, "");
+		String password = PreferenceUtils.getPrefString(this,PreferenceConstants.PASSWORD, "");
 		if (!TextUtils.isEmpty(password)) {
 			mHandler.postDelayed(gotoMainAct, 3000);
 		} else {
